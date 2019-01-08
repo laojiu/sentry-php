@@ -1,5 +1,5 @@
 {
-    "name": "sentry/sentry",
+    "name": "LaoJiu/sentry",
     "type": "library",
     "description": "A PHP client for Sentry (http://getsentry.com)",
     "keywords": ["log", "logging"],
